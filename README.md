@@ -12,5 +12,5 @@
 
 ## 链表
 1. 虚拟头结点 https://leetcode-cn.com/problems/remove-linked-list-elements/solution/yi-chu-lian-biao-yuan-su-by-leetcode/
-2. 
+2. （暂时跳过）
 3. 双指针法（pre和cur）https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg
