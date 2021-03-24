@@ -8,3 +8,6 @@
 1. 二分法 https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q
 2. 双指针法（快慢指针） https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA
 3. 双指针法（滑动窗口） https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg
+
+## 链表
+1. 虚拟头结点 https://leetcode-cn.com/problems/remove-linked-list-elements/solution/yi-chu-lian-biao-yuan-su-by-leetcode/
